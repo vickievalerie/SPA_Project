@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SPA_project/static/css/main.ed7ab8da.css",
-    "main.js": "/SPA_project/static/js/main.b9561776.js",
-    "static/media/Montserrat.ttf": "/SPA_project/static/media/Montserrat.7e687123cd4528224ce5.ttf",
-    "static/media/lobster.ttf": "/SPA_project/static/media/lobster.263f767cac8a4e0925a6.ttf",
-    "index.html": "/SPA_project/index.html",
-    "main.ed7ab8da.css.map": "/SPA_project/static/css/main.ed7ab8da.css.map",
-    "main.b9561776.js.map": "/SPA_project/static/js/main.b9561776.js.map"
+    "main.css": "/SPA_Project/static/css/main.bf3da2f2.css",
+    "main.js": "/SPA_Project/static/js/main.b9561776.js",
+    "static/media/Montserrat.ttf": "/SPA_Project/static/media/Montserrat.7e687123cd4528224ce5.ttf",
+    "static/media/lobster.ttf": "/SPA_Project/static/media/lobster.263f767cac8a4e0925a6.ttf",
+    "index.html": "/SPA_Project/index.html",
+    "main.bf3da2f2.css.map": "/SPA_Project/static/css/main.bf3da2f2.css.map",
+    "main.b9561776.js.map": "/SPA_Project/static/js/main.b9561776.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed7ab8da.css",
+    "static/css/main.bf3da2f2.css",
     "static/js/main.b9561776.js"
   ]
 }
